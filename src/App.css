@@ -1,0 +1,18 @@
+.Board-container{
+  text-align: center;
+  margin-left:500px;
+  margin-right: 500px;
+}
+.Board-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.square{
+  display: flex;
+border: 1px solid black;
+height: 100px;
+width:100%;
+justify-content: center;
+align-items: center;
+}
